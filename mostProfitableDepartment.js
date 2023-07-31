@@ -25,4 +25,5 @@ function mostProfitableDepartment(SalesData){
   };
 
   export default mostProfitableDepartment;
+
   
